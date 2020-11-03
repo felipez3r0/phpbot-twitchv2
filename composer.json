@@ -1,0 +1,16 @@
+{
+  "name": "felipez3r0/chatbot",
+  "description": "Felipez3r0 Chatbot v2",
+  "license": "MIT",
+  "homepage": "https://github.com/felipez3r0/phpchatbotv2",
+  "keywords": ["chatbot"],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "calcinai/phpi": "dev-master",
+    "ext-sockets": "*"
+  }
+}
